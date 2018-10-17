@@ -103,3 +103,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 .DS_Store
+*.xlsx
+Data sources/Metadata_Country_API_EN.ATM.GHGT.KT.CE_DS2_en_csv_v2_10134766.csv
+Data sources/Metadata_Indicator_API_EN.ATM.GHGT.KT.CE_DS2_en_csv_v2_10134766.csv
+Untitled.ipynb
