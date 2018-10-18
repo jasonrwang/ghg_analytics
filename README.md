@@ -1,4 +1,5 @@
 # ghg_analytics
+
 Insights into trends with global greenhouse gases and climate change action.
 Final project for EPA1333 Computer Engineering for Scientific Computing at TU Delft.
 
@@ -6,7 +7,8 @@ Editable on Google Colab [here](https://colab.research.google.com/drive/1Uo6lH-3
 
 ## How To
 
-### Authors:
+### Authors
+
 * Aashna Mittal
 * Gamze Ünlü
 * Jason R Wang
