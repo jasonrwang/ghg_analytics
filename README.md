@@ -3,7 +3,7 @@
 Insights into trends with global greenhouse gases and climate change action.
 Final project for EPA1333 Computer Engineering for Scientific Computing at TU Delft.
 
-![](https://i.imgur.com/mHjPRPo.png)
+![SDG 13 Banner](https://i.imgur.com/mHjPRPo.png)
 
 ## How To
 
@@ -17,15 +17,15 @@ Download or clone the directory and run using Jupyter Notebook, or access the st
 
 ## Executive Summary
 
-In this analysis, we analyzed the implications of United Nations Framework Convention on Climate Change (UNFCCC) on member states' Nationally Determined Contributions (NDCs). 
+In this analysis, we analyzed the implications of United Nations Framework Convention on Climate Change (UNFCCC) on member states' Nationally Determined Contributions (NDCs).
 
-In Section 1, we combine and clean differnet data sets to get the data in useful form for the later analysis. Later we provide an overview of the world and the current situation comparing the NDCs submitted and temperature targets. 
+In Section 1, we combine and clean differnet data sets to get the data in useful form for the later analysis. Later we provide an overview of the world and the current situation comparing the NDCs submitted and temperature targets.
 
 In Section 2, we start focusing on the countries and the question "Which countries are polluting more?". We narrow down the analysis to top 10 most polluting countries in 2015 (the top three are China, the United States, and India) and visualize their 2030 projected emissions in no policy case and their submitted NDCs. We compute their target reduction of emissions. We find that submitted NDCs are able to meet the 2ºC Paris target but not the 1.5ºC.
 
 In Section 3, we broaden our analysis with the notion of "Historical Debt" which is one of the important discussion points within Paris Agreement. We see the historical emissions of the top 10 emittors. Later we find the relation between their percent reduction target (from forecasts), GDP per capita, and cumualative emissions. With this analysis countries are grouped into four different categories in order to compare their contributions to global warming and their targets. We found that only Mexico has low Historical Debt and has a good ambition. All nine other countries had insufficient ambition and ranged in their level of Historical Debt.
 
-In Section 4, we introduce the Green Climate Fund pledges and visualize how much each country pledged to contribute. We later compare this amount with the number they should contribute which is found within the analysis in this section, finding that the United States should contribute more than 50%, rather than only 3% (its current pledge). Following up from Section 3, a "Guilt factor" is proposed to make recommendations on how much top 10 emitters _should_ contribute to the Green Climate Fund and how much their NDCs targets should be. 
+In Section 4, we introduce the Green Climate Fund pledges and visualize how much each country pledged to contribute. We later compare this amount with the number they should contribute which is found within the analysis in this section, finding that the United States should contribute more than 50%, rather than only 3% (its current pledge). Following up from Section 3, a "Guilt factor" is proposed to make recommendations on how much top 10 emitters _should_ contribute to the Green Climate Fund and how much their NDCs targets should be.
 
 Section 5 discusses the reccomendations and conclusions of the analysis. We found that the United States holds the almost as much carbon debt as the rest of the other top 10 polluters combined (apart from China). Since its GDP per capita is 7x larger than China's, its guilt index is accordingly larger too. Compared to similarly wealthy and industrialized nations, its cumulative emissions were around 10x greater. Overall, the United States' Guilt factor was an order of magnitude higher than every other country in the world.
 
