@@ -7,7 +7,7 @@ Final project for EPA1333 Computer Engineering for Scientific Computing at TU De
 
 ## How To
 
-Download or clone the directory and run `ghg_analytics.ipynb` using Jupyter Notebook, or access the static web version in `index.html`, which is also [hosted here](http://jasonrwang.github.io/ghg_analytics).
+Download or clone the directory and run `ghg_analytics.ipynb` using Jupyter Notebook, or access the static web version in `index.html`, which is also [hosted here](http://jasonrwang.github.io/ghg_analytics/).
 
 The file comes with outputs cleared. Make sure to run it (Jupyter Notebook lets you run all)!
 
